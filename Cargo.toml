@@ -1,8 +1,6 @@
 [package]
-name = "i3spotifystatus-rs"
+name = "i3status-spotify"
 version = "0.1.0"
 authors = ["Jakub Janek <shaman.janek@gmail.com>"]
 edition = "2018"
 
-[dependencies]
-regex = "1.2.0"
